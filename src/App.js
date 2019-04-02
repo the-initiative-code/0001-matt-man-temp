@@ -9,9 +9,9 @@ class App extends Component {
         <header className="App-header">
           <img
             src={logo}
-            alt="samurai agency"
+            alt="samurai agency logo"
             className="samurai"
-            height={300}
+            height={400}
           />
         </header>
       </div>
